@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.rockwellcollins.atc.agree.feature_2.1.3.201603250928.jar" id="com.rockwellcollins.atc.agree.feature" version="2.1.3.201603250928">
+      <category name="com.rockwellcollins.atc.smaccm"/>
+   </feature>
+   <category-def name="com.rockwellcollins.atc.smaccm" label="SMACCM">
+      <description>
+         Tools developed under the SMACCM project
+      </description>
+   </category-def>
+</site>
