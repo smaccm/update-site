@@ -9,7 +9,7 @@
    <feature url="features/edu.umn.cs.crisys.smaccm.aadl2rtos.feature_1.0.0.201608151449.jar" id="edu.umn.cs.crisys.smaccm.aadl2rtos.feature" version="1.0.0.201608151449">
       <category name="com.rockwellcollins.atc.smaccm"/>
    </feature>
-   <feature url="features/com.rockwellcollins.atc.resolute.feature_1.0.0.201608151449.jar" id="com.rockwellcollins.atc.resolute.feature" version="1.0.0.201608151449">
+   <feature url="features/com.rockwellcollins.atc.resolute.feature_1.0.0.201610121016.jar" id="com.rockwellcollins.atc.resolute.feature" version="1.0.0.201610121016">
       <category name="com.rockwellcollins.atc.smaccm"/>
    </feature>
    <category-def name="com.rockwellcollins.atc.smaccm" label="SMACCM">
