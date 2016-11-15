@@ -9,7 +9,7 @@
    <feature url="features/com.rockwellcollins.atc.resolute.feature_1.0.0.201610121016.jar" id="com.rockwellcollins.atc.resolute.feature" version="1.0.0.201610121016">
       <category name="com.rockwellcollins.atc.smaccm"/>
    </feature>
-   <feature url="features/com.rockwellcollins.atc.z3.feature_4.5.0.201611150815.jar" id="com.rockwellcollins.atc.z3.feature" version="4.5.0.201611150815">
+   <feature url="features/com.rockwellcollins.atc.z3.feature_4.5.0.201611150945.jar" id="com.rockwellcollins.atc.z3.feature" version="4.5.0.201611150945">
       <category name="com.rockwellcollins.atc.smaccm"/>
    </feature>
    <category-def name="com.rockwellcollins.atc.smaccm" label="SMACCM">
