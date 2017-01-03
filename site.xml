@@ -6,7 +6,7 @@
    <feature url="features/edu.umn.cs.crisys.smaccm.aadl2rtos.feature_1.0.0.201612121336.jar" id="edu.umn.cs.crisys.smaccm.aadl2rtos.feature" version="1.0.0.201612121336">
       <category name="com.rockwellcollins.atc.smaccm"/>
    </feature>
-   <feature url="features/com.rockwellcollins.atc.resolute.feature_1.0.0.201701031311.jar" id="com.rockwellcollins.atc.resolute.feature" version="1.0.0.201701031311">
+   <feature url="features/com.rockwellcollins.atc.resolute.feature_1.0.0.201701031359.jar" id="com.rockwellcollins.atc.resolute.feature" version="1.0.0.201701031359">
       <category name="com.rockwellcollins.atc.smaccm"/>
    </feature>
    <feature url="features/com.rockwellcollins.atc.z3.feature_4.5.0.201612121336.jar" id="com.rockwellcollins.atc.z3.feature" version="4.5.0.201612121336">
