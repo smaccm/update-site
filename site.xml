@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.rockwellcollins.atc.agree.feature_2.1.3.201706081022.jar" id="com.rockwellcollins.atc.agree.feature" version="2.1.3.201706081022">
+   <feature url="features/com.rockwellcollins.atc.agree.feature_2.1.3.201706121553.jar" id="com.rockwellcollins.atc.agree.feature" version="2.1.3.201706121553">
       <category name="com.rockwellcollins.atc.smaccm"/>
    </feature>
    <feature url="features/edu.umn.cs.crisys.smaccm.aadl2rtos.feature_1.0.0.201702161537.jar" id="edu.umn.cs.crisys.smaccm.aadl2rtos.feature" version="1.0.0.201702161537">
