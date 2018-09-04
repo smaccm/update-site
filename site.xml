@@ -15,6 +15,9 @@
    <feature url="features/edu.umn.cs.crisys.tb.feature_1.0.0.201710240857.jar" id="edu.umn.cs.crisys.tb.feature" version="1.0.0.201710240857">
       <category name="com.rockwellcollins.atc.smaccm"/>
    </feature>
+   <feature url="features/com.rockwellcollins.atc.agree.feature_2.3.3.201809041210.jar" id="com.rockwellcollins.atc.agree.feature" version="2.3.3.201809041210">
+      <category name="com.rockwellcollins.atc.smaccm"/>
+   </feature>
    <category-def name="com.rockwellcollins.atc.smaccm" label="SMACCM">
       <description>
          Tools developed under the SMACCM project
